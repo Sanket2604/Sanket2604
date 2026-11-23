@@ -1,8 +1,9 @@
-<!-- Animated header -->
+<!-- Animated Header -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:2563EB&height=200&section=header&text=Sanket%20Banerjee&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&animation=fadeIn" width="100%" />
 
   <h3>Building things, solving problems, and learning along the way.</h3>
+
   <p>
     <img src="https://img.shields.io/badge/TypeScript-Primary-3178C6?style=flat-square&logo=typescript&logoColor=white" />
     <img src="https://img.shields.io/badge/Node.js-Backend-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
@@ -24,59 +25,68 @@ I'm a Software Engineer with approximately **5 years of experience in JavaScript
 
 ## 🛠️ Tech Stack
 
-**Languages**
+### Languages
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,python,mysql" />
+</p>
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,python" />
-  <br/>
-  TypeScript · JavaScript · Python
+  <sub>TypeScript</sub> &nbsp;&nbsp;&nbsp; <sub>JavaScript</sub> &nbsp;&nbsp;&nbsp; <sub>Python</sub> &nbsp;&nbsp;&nbsp; <sub>SQL</sub>
 </p>
 
-**Frontend**
+### Frontend Development
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,vue,redux,tailwind" />
-  <br/>
-  React.js · Next.js · Vue.js · Redux · Tailwind CSS
+</p>
+<p>
+  <sub>React.js</sub> &nbsp;&nbsp; <sub>Next.js</sub> &nbsp;&nbsp; <sub>Vue.js</sub> &nbsp;&nbsp; <sub>Redux</sub> &nbsp;&nbsp; <sub>Tailwind CSS</sub>
 </p>
 
-**Backend**
+### Backend Development
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,flask" />
-  <br/>
-  Node.js · Express.js · NestJS · FastAPI · Flask
+</p>
+<p>
+  <sub>Node.js</sub> &nbsp;&nbsp; <sub>Express.js</sub> &nbsp;&nbsp; <sub>NestJS</sub> &nbsp;&nbsp; <sub>FastAPI</sub> &nbsp;&nbsp; <sub>Flask</sub>
 </p>
 
-**AI / Generative AI**
+### AI & Generative AI
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=openai" height="48" />
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white" height="40" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" height="40" />
+  <img src="https://img.shields.io/badge/RAG-6C63FF?style=flat-square" height="40" />
+  <img src="https://img.shields.io/badge/Pinecone-00897B?style=flat-square" height="40" />
+  <img src="https://img.shields.io/badge/ChromaDB-5B46A8?style=flat-square" height="40" />
+</p>
 <p>
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
-  <br/>
-  OpenAI · Google Gemini · LangChain · RAG · LLM Applications · Vector Search · Semantic Retrieval · Pinecone · ChromaDB
+  <sub>OpenAI</sub> &nbsp;&nbsp; <sub>Google Gemini</sub> &nbsp;&nbsp; <sub>LangChain</sub> &nbsp;&nbsp; <sub>RAG / LLMs</sub> &nbsp;&nbsp; <sub>Pinecone</sub> &nbsp;&nbsp; <sub>ChromaDB</sub>
 </p>
 
-**Databases & Search**
+### Databases & Search
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,elasticsearch" />
-  <br/>
-  PostgreSQL · MySQL · MongoDB · Redis · Elasticsearch · SQL Server
+</p>
+<p>
+  <sub>PostgreSQL</sub> &nbsp;&nbsp; <sub>MySQL</sub> &nbsp;&nbsp; <sub>MongoDB</sub> &nbsp;&nbsp; <sub>Redis</sub> &nbsp;&nbsp; <sub>Elasticsearch</sub>
 </p>
 
-**Cloud & DevOps**
+### Cloud & DevOps
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=aws,docker,git,github,githubactions" />
-  <br/>
-  AWS (EC2, S3, SES) · Docker · Git · GitHub Actions · CI/CD
+</p>
+<p>
+  <sub>AWS</sub> &nbsp;&nbsp; <sub>Docker</sub> &nbsp;&nbsp; <sub>Git</sub> &nbsp;&nbsp; <sub>GitHub</sub> &nbsp;&nbsp; <sub>GitHub Actions</sub>
 </p>
 
 **Architecture & Engineering**
 
-`REST APIs` `Microservices` `Event-Driven Architecture` `Workflow Orchestration` `Multi-Tenancy` `RBAC` `Caching` `Automated Testing`
+`REST APIs` · `Microservices` · `Event-Driven Architecture` · `Workflow Orchestration` · `Multi-Tenancy` · `RBAC` · `Caching` · `Automated Testing`
 
 ## 💼 Professional Experience
 
